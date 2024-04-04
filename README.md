@@ -1,3 +1,5 @@
+## 💫 About Me:
+
 ### 🔭 Building a cutting-edge data analytics products that leverages the latest AI algorithms, LLM's to provide actionable insights to businesses.
 
 <!--
