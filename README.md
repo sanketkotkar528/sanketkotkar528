@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 Building a cutting-edge data analytics products that leverages the latest AI algorithms, LLM's to provide actionable insights to businesses.
 
 <!--
 **sanketkotkar528/sanketkotkar528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
